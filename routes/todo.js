@@ -5,11 +5,11 @@ router.get('/', (req, res) => {res.json(todos);});
 
 const todos = [
     {id: 1,
-        tugas: "data tambah",
+        tugas: "data satu",
     },
     {
         id: 2,
-        tugas: "data bertambah"
+        tugas: "data dua"
     }
 ]
 
