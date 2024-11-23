@@ -5,6 +5,7 @@ const router = express.Router();
 const pupuk = [
 
     {
+        id: 1,
         nama:"Pupes",
         tahun_produksi:"2001",
         tahun_kadaluarsa:"2003",

@@ -5,6 +5,7 @@ const router = express.Router();
 const bibit = [
 
     {
+        id: 1,
         nama_tanaman: "Padi",
         jenis: "Briyani",
         kota_suplier: "Jakarta",
