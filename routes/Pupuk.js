@@ -7,8 +7,8 @@ const pupuk = [
     {
         id: 1,
         nama:"Pupes",
-        tahun_produksi:"2001",
-        tahun_kadaluarsa:"2003",
+        tahun_produksi: 2001,
+        tahun_kadaluarsa: 2003,
         jenis:"Pupuk Kering"
     }
 
