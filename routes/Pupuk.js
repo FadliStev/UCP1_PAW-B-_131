@@ -12,3 +12,8 @@ const pupuk = [
     }
 
 ]
+
+router.get("/", (req, res) =>{
+    res.send(pupuk)
+});
+export default router;
