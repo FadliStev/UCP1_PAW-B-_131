@@ -11,7 +11,7 @@ const pupuk = [
         jenis:"Pupuk Kering"
     }
 
-]
+];
 
 router.get("/", (req, res) =>{
     res.send(pupuk)
